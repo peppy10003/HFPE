@@ -13,3 +13,5 @@ Please read the CONTRIBUTING.md in .github for some guidelines on contributing t
 ## Modding
 The only terms are that you credit me as the project founder and you stay within the license requirements.
 I recommended posting your modifications of the source code on itch.io so it can be easily accessible to everyone :heart:
+
+##Reditor lol
